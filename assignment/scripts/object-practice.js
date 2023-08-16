@@ -53,3 +53,6 @@ console.log("Updated shoe count:", me.shoeCount); //testing shoeCount
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+me.favoriteColor = "green"; // adding favoriteColor property to me object
+console.log("Added favoriteColor which is:", me.favoriteColor); // testing if favoriteColor added successfully
+console.log(me);
