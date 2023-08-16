@@ -33,6 +33,8 @@ console.log("My full name is:", fullName); // testing property added correctly
   - Console.log your first favorite food
   - Console.log your last favorite food 
 */
+console.log("My first favorite food is:", me.favThreeFoods[0]);
+console.log("My last favorite food is:", me.favThreeFoods[2]);
 
 /* 4. Change a property of an existing object.
   - Console.log your current shoe count.
